@@ -1,0 +1,10 @@
+E:\Faculdade Chel\C#\programaFuncionario\bin\Debug\programaFuncionario.exe.config
+E:\Faculdade Chel\C#\programaFuncionario\bin\Debug\programaFuncionario.exe
+E:\Faculdade Chel\C#\programaFuncionario\bin\Debug\programaFuncionario.pdb
+E:\Faculdade Chel\C#\programaFuncionario\obj\Debug\programaFuncionario.csproj.AssemblyReference.cache
+E:\Faculdade Chel\C#\programaFuncionario\obj\Debug\programaFuncionario.Properties.Resources.resources
+E:\Faculdade Chel\C#\programaFuncionario\obj\Debug\programaFuncionario.csproj.GenerateResource.cache
+E:\Faculdade Chel\C#\programaFuncionario\obj\Debug\programaFuncionario.csproj.CoreCompileInputs.cache
+E:\Faculdade Chel\C#\programaFuncionario\obj\Debug\programaFuncionario.exe
+E:\Faculdade Chel\C#\programaFuncionario\obj\Debug\programaFuncionario.pdb
+E:\Faculdade Chel\C#\programaFuncionario\obj\Debug\programaFuncionario.Form1.resources
